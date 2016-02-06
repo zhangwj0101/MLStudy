@@ -171,5 +171,4 @@ def hourselogShow(iterTime, rateArr, *weights):
     plt.show()
 
 
-print "s"
 hourseShow()
